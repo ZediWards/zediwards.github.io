@@ -1,3 +1,5 @@
 # Hello World!!
 My name is ZediWards
-editing on remote to check status on local branch afterwards
+
+###
+Branched off master and edited readme on local repo. Added, committed, pushed to remote.
