@@ -2,4 +2,6 @@
 My name is ZediWards
 
 ###
-Branched off master and edited readme on local repo. Added, committed, pushed to remote.
+This master branch is where my Pelican output directory will reside.
+
+The source code "the rest of the Pelican file tree" with be held within the "source" branch.
