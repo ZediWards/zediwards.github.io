@@ -2,10 +2,10 @@
 My name is ZediWards
 
 ###
-This branch "source" will be where my source code for my website will reside. The master branch will house my output dir that is needed to serve the static html file for the website.
+This branch "source" will be where my source code for my website will reside. The master branch will house my output directory that is needed to serve the static html files that is needed for the website.
 
 ####
-I will include a .gitignore file within the source dir that will include the output dir.
+I will include a .gitignore file within the Pelican file tree that will exclude the output directory from the source branch.
 
 #####
 Theoretical workflow for now:
