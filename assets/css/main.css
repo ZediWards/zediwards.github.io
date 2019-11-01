@@ -1,5 +1,5 @@
 body {
-  background: #222222;
+  background: #c25b06;
   color: #ffffff;
 }
 
@@ -10,13 +10,13 @@ body {
   justify-content: center;
 }
 
-nav{
+nav {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.title{
+.title {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,31 +28,29 @@ nav{
   margin: 0;
 }
 
-
-.tagline{
+.tagline {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Nato+Sans;
+  font-family: Nato + Sans;
 }
 
 .tagline p {
   padding-top: 5px;
 }
 
-
 nav ul {
   padding: 0;
-  margin-top: 20px
+  margin-top: 20px;
 }
 
-nav li{
+nav li {
   display: inline-block;
 }
 
 li a {
   text-decoration: none;
-  padding: 10px
+  padding: 10px;
 }
 
 nav img {
@@ -63,6 +61,4 @@ nav img:hover {
   background-color: #bc4343;
   width: 50px;
   border-radius: 50%;
-
 }
-
